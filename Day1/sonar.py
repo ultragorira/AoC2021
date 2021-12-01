@@ -1,6 +1,3 @@
-
-import re
-
 stack = []
 
 with open(r'./Day1/sonar.txt', 'r') as f:
